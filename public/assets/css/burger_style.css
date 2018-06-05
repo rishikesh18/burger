@@ -1,0 +1,45 @@
+
+body {
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.top {
+    text-align: center;
+}
+
+.change-devour {
+    padding: 5px;
+    font-size: 20px;
+    background-color: greenyellow;
+}
+
+.delete-burger {
+    padding: 5px;
+    font-size: 20px;
+    background-color: red;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  .input_burger {
+      text-align: center;
+  }
